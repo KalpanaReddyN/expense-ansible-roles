@@ -1,5 +1,5 @@
-mysql_root_password: ExpenseApp@1
-login_host: mysql.kalpanadevops.online
+#mysql_root_password: ExpenseApp@1
+#login_host: mysql.kalpanadevops.online
 app_location: /app
 component: backend
 
