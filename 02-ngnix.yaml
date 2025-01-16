@@ -1,4 +1,5 @@
 - name: install and run nginx
+  # hosts: nginx
   hosts: all # bcoz dynamic inventory vundae anni servers ki connect avvamani
   become: yes # equal to -b in ad-hoc commands, getting the root access
   tasks:
